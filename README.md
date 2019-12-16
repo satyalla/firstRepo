@@ -1,2 +1,2 @@
-# firstRepo-this is my first repo
+# firstRepo-this is my  gitfirst repo
 Entering into the the world of GIT-for practice 
